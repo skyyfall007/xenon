@@ -1,5 +1,5 @@
 <p align="center">
-<img src ="assets/XE1.png">
+<img src ="assets/xelogo.png">
 </p>
 
 # XENON
