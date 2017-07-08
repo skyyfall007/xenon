@@ -31,7 +31,7 @@
 
 ##  OVERVIEW
 
-Xenon allows students to have the convince of learning on the go, any time of the day.  It’s availability on any mobile browser provides easy accessibility for all mobile drivers/platforms. The intent of Xenon puts the interest of students above everything else and continues to think of new convenient ways to reach bigger audiences and deliver new interesting ways to learn and retain information!
+Xenon allows students to have the convenience of learning on the go, any time of the day.  It’s availability on any mobile browser provides easy accessibility for all mobile drivers/platforms. The intent of Xenon puts the interest of students above everything else and continues to think of new convenient ways to reach bigger audiences and deliver new interesting ways to learn and retain information!
 
 ##  FEATURES
 
