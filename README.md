@@ -22,11 +22,6 @@
 
 **Team Name:** XE1
 
-**Repository:**  [Check Out Our Code!](https://github.com/soft-eng-practicum/xenon.git)
-
-**Process Tool:** [Pivotal Tracker](https://www.pivotaltracker.com/n/projects/1858563)
-
-**Communication Tool:** [Slack Channel](https://ggc-dev.slack.com/messages/chemteam/details/)
 
 
 ##  OVERVIEW
